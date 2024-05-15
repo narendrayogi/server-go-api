@@ -1,0 +1,3 @@
+[submodule "dummy-ms-common"]
+	path = dummy-ms-common
+	url = git@github.com:narendrayogi/dummy-ms-common.git
